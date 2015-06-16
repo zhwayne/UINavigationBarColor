@@ -1,0 +1,7 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "bc4d319c246f9e145575d9ff8defd2fc"
+inputs: 
+- "/Users/wayne/Desktop/github/UINavigationBarColor/UINavigationBarColor/ViewController.swift"
+- "/Users/wayne/Desktop/github/UINavigationBarColor/UINavigationBarColor/UINavigationBar+BgColor.swift"
+- "/Users/wayne/Desktop/github/UINavigationBarColor/UINavigationBarColor/AppDelegate.swift"
+- "/Users/wayne/Desktop/github/UINavigationBarColor/UINavigationBarColor/SecViewController.swift"

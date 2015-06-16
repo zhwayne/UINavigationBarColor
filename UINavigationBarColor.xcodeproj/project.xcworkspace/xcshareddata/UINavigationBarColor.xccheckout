@@ -7,32 +7,32 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>5AED9963-EB70-4503-A662-7E72478A8712</string>
 	<key>IDESourceControlProjectName</key>
-	<string>UINavigationBarColor</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>FA16644A58E308AD2934A5EF81D6DBFDE229AD9F</key>
-		<string>github.com:zwayn/UINavigationBarColor.git</string>
+		<key>7DE4E599C43ED40FC6C22725B17B6B4132220CA6</key>
+		<string>https://github.com/zhwayne/UINavigationBarColor.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>UINavigationBarColor.xcodeproj</string>
+	<string>UINavigationBarColor.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>FA16644A58E308AD2934A5EF81D6DBFDE229AD9F</key>
+		<key>7DE4E599C43ED40FC6C22725B17B6B4132220CA6</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:zwayn/UINavigationBarColor.git</string>
+	<string>https://github.com/zhwayne/UINavigationBarColor.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>FA16644A58E308AD2934A5EF81D6DBFDE229AD9F</string>
+	<string>7DE4E599C43ED40FC6C22725B17B6B4132220CA6</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>FA16644A58E308AD2934A5EF81D6DBFDE229AD9F</string>
+			<string>7DE4E599C43ED40FC6C22725B17B6B4132220CA6</string>
 			<key>IDESourceControlWCCName</key>
 			<string>UINavigationBarColor</string>
 		</dict>
